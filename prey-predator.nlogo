@@ -393,7 +393,7 @@ grass-percentage
 grass-percentage
 5
 50
-25.0
+30.0
 1
 1
 NIL
@@ -408,7 +408,7 @@ number-carrot-patches
 number-carrot-patches
 2
 10
-5.0
+7.0
 1
 1
 NIL
@@ -423,7 +423,7 @@ grass-regrowth-rate
 grass-regrowth-rate
 0
 2.0
-0.9
+1.0
 0.1
 1
 NIL
@@ -455,7 +455,7 @@ carrot-regrowth-rate
 carrot-regrowth-rate
 0
 2.0
-0.4
+1.2
 0.1
 1
 NIL
@@ -470,8 +470,8 @@ energy-gain-grass
 energy-gain-grass
 0
 50
-10.0
-5
+0.0
+1
 1
 NIL
 HORIZONTAL
@@ -485,8 +485,8 @@ energy-gain-carrot
 energy-gain-carrot
 0
 30
-10.0
-5
+3.0
+1
 1
 NIL
 HORIZONTAL
@@ -521,7 +521,7 @@ initial-number-rabbits
 initial-number-rabbits
 5
 100
-100.0
+60.0
 5
 1
 NIL
@@ -536,7 +536,7 @@ max-forward-rabbit
 max-forward-rabbit
 1
 10
-4.0
+3.0
 1
 1
 NIL
@@ -551,7 +551,7 @@ max-turn-rabbit
 max-turn-rabbit
 0
 360
-156.0
+90.0
 1
 1
 NIL
@@ -581,7 +581,7 @@ initial-energy-rabbits
 initial-energy-rabbits
 20
 100
-50.0
+30.0
 5
 1
 NIL
@@ -596,7 +596,7 @@ initial-energy-foxes
 initial-energy-foxes
 30
 100
-40.0
+50.0
 5
 1
 NIL
@@ -611,7 +611,7 @@ max-forward-fox
 max-forward-fox
 1
 5
-4.0
+3.0
 1
 1
 NIL
@@ -626,7 +626,7 @@ energy-loss
 energy-loss
 1
 20
-3.0
+2.0
 1
 1
 NIL
