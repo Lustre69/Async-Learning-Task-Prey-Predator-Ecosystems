@@ -470,7 +470,7 @@ energy-gain-grass
 energy-gain-grass
 0
 50
-10.0
+15.0
 5
 1
 NIL
